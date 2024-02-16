@@ -1,5 +1,5 @@
 body {
-  background-color: #0a0a23;
+  background-color: rgb(0, 10, 10);
 }
 
 #text {
@@ -9,11 +9,11 @@ body {
 }
 
 #game {
-  max-width: 500px;
+  max-width: 600px;
   max-height: 400px;
   background-color: #ffffff;
   color: #ffffff;
-  margin: 30px auto 0px;
+  margin: 90px auto 0px;
   padding: 10px;
 }
 
@@ -39,7 +39,7 @@ body {
 button {
   cursor: pointer;
   color: #0a0a23;
-  background-color: #feac32;
-  background-image: linear-gradient(#fecc4c, #ffac33);
-  border: 3px solid #feac32;
+  background-color: grey;
+  background-image: linear-gradient(white, silver);
+  border: 3px solid silver;
 }
